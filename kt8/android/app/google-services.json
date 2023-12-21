@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329679272766",
+    "project_id": "kt-8-e565b",
+    "storage_bucket": "kt-8-e565b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329679272766:android:ff78354c7ae499708bca6f",
+        "android_client_info": {
+          "package_name": "com.example.kt8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQrRq9qnwodYnN6BKXcOL5k1qkAHvKdac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
